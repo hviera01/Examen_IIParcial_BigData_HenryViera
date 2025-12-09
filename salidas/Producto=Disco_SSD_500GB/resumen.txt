@@ -1,0 +1,4 @@
+Producto: Disco SSD 500GB
+Total de ventas: 25900.5
+Cantidad de registros: 13
+Precio unitario promedio: 763.7369230769231

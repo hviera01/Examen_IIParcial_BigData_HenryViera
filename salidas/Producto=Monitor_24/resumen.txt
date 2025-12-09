@@ -1,0 +1,4 @@
+Producto: Monitor 24"
+Total de ventas: 34315.479999999996
+Cantidad de registros: 13
+Precio unitario promedio: 805.1623076923078

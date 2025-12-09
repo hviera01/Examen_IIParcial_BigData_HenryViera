@@ -1,0 +1,4 @@
+Producto: Impresora
+Total de ventas: 15999.81
+Cantidad de registros: 11
+Precio unitario promedio: 727.9409090909091

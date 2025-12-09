@@ -1,0 +1,4 @@
+Producto: Laptop
+Total de ventas: 29893.030000000002
+Cantidad de registros: 15
+Precio unitario promedio: 815.2233333333334

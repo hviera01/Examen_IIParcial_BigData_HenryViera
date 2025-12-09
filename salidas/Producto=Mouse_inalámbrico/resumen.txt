@@ -1,0 +1,4 @@
+Producto: Mouse inalámbrico
+Total de ventas: 21395.559999999998
+Cantidad de registros: 15
+Precio unitario promedio: 663.0533333333333

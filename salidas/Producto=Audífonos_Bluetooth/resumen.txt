@@ -1,0 +1,4 @@
+Producto: Audífonos Bluetooth
+Total de ventas: 20034.590000000004
+Cantidad de registros: 10
+Precio unitario promedio: 870.3340000000001
