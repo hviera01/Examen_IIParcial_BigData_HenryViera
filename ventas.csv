@@ -1,0 +1,101 @@
+﻿Fecha,Cliente,Producto,Cantidad,PrecioUnitario,Total
+2025-10-07,Pedro Díaz,Memoria USB 32GB,3,1159.21,3477.63
+2025-10-28,Lucía Torres,Disco SSD 500GB,3,61.48,184.44
+2025-10-30,María López,Mouse inalámbrico,3,336.58,1009.74
+2025-10-05,Carlos Pérez,Memoria USB 32GB,3,1101.12,3303.36
+2025-10-14,Carlos Pérez,Laptop,1,1290.99,1290.99
+2025-10-16,Lucía Torres,Memoria USB 32GB,3,946.5,2839.5
+2025-10-09,Luis Hernández,Laptop,4,445.06,1780.24
+2025-10-27,Ana Gómez,Mouse inalámbrico,2,1317.72,2635.44
+2025-10-09,Lucía Torres,Audífonos Bluetooth,2,799.28,1598.56
+2025-10-12,Ana Gómez,Teclado mecánico,3,965.85,2897.55
+2025-10-09,Luis Hernández,Audífonos Bluetooth,1,1375.65,1375.65
+2025-10-08,Diana Romero,Teclado mecánico,1,880.79,880.79
+2025-10-29,Pedro Díaz,Audífonos Bluetooth,4,1317.88,5271.52
+2025-10-29,Jorge Sánchez,Mouse inalámbrico,3,1209.36,3628.08
+2025-10-30,Jorge Sánchez,Impresora,1,475.15,475.15
+2025-10-01,Luis Hernández,Impresora,1,850.36,850.36
+2025-10-04,María López,Impresora,1,1264.83,1264.83
+2025-10-12,Carlos Pérez,Disco SSD 500GB,4,753.14,3012.56
+2025-10-02,Lucía Torres,Teclado mecánico,3,77.61,232.83
+2025-10-12,Diana Romero,Disco SSD 500GB,2,1300.86,2601.72
+2025-10-13,Ana Gómez,Teclado mecánico,3,339.95,1019.85
+2025-10-12,María López,"Monitor 24""",4,427.29,1709.16
+2025-10-12,Diana Romero,Mouse inalámbrico,3,490.08,1470.24
+2025-10-14,Pedro Díaz,Teclado mecánico,4,1312.38,5249.52
+2025-10-01,Diana Romero,Impresora,1,599.79,599.79
+2025-10-11,Carlos Pérez,Mouse inalámbrico,3,217.26,651.78
+2025-10-26,Diana Romero,"Monitor 24""",1,1210.07,1210.07
+2025-10-12,Ana Gómez,Memoria USB 32GB,3,573.86,1721.58
+2025-10-22,Diana Romero,"Monitor 24""",5,761.29,3806.45
+2025-10-08,Diana Romero,Mouse inalámbrico,3,1000.69,3002.07
+2025-10-04,Diana Romero,Laptop,4,1216.92,4867.68
+2025-10-12,Carlos Pérez,Impresora,4,1215.52,4862.08
+2025-10-07,Lucía Torres,Disco SSD 500GB,4,760.23,3040.92
+2025-10-15,Lucía Torres,Disco SSD 500GB,1,633.91,633.91
+2025-10-23,Jorge Sánchez,Impresora,1,1268.56,1268.56
+2025-10-18,Jorge Sánchez,Disco SSD 500GB,4,843.12,3372.48
+2025-10-08,María López,Audífonos Bluetooth,1,420.1,420.1
+2025-10-23,Luis Hernández,Teclado mecánico,4,386.81,1547.24
+2025-10-31,Jorge Sánchez,"Monitor 24""",5,730.91,3654.55
+2025-10-11,Jorge Sánchez,Laptop,4,1266.29,5065.16
+2025-10-12,Diana Romero,Laptop,3,137.04,411.12
+2025-10-03,Ana Gómez,Laptop,1,1224.24,1224.24
+2025-10-13,Lucía Torres,Teclado mecánico,4,36.59,146.36
+2025-10-30,María López,"Monitor 24""",2,431.01,862.02
+2025-10-17,Carlos Pérez,"Monitor 24""",4,1480.74,5922.96
+2025-10-08,Lucía Torres,Audífonos Bluetooth,1,621.21,621.21
+2025-10-11,Carlos Pérez,Laptop,1,457.93,457.93
+2025-10-10,Diana Romero,Audífonos Bluetooth,4,357.47,1429.88
+2025-10-23,Jorge Sánchez,Impresora,3,292.36,877.08
+2025-10-23,Ana Gómez,Memoria USB 32GB,2,164.54,329.08
+2025-10-20,María López,Audífonos Bluetooth,1,1089.11,1089.11
+2025-10-19,Diana Romero,Impresora,4,922.34,3689.36
+2025-10-28,Diana Romero,"Monitor 24""",3,1095.03,3285.09
+2025-10-21,Luis Hernández,Mouse inalámbrico,3,61.38,184.14
+2025-10-21,Luis Hernández,Laptop,3,108.0,324.0
+2025-10-05,Diana Romero,Laptop,1,1323.74,1323.74
+2025-10-25,María López,Memoria USB 32GB,3,834.89,2504.67
+2025-10-13,Diana Romero,Audífonos Bluetooth,3,1111.0,3333.0
+2025-10-06,Diana Romero,"Monitor 24""",4,903.6,3614.4
+2025-10-06,Carlos Pérez,Teclado mecánico,3,847.97,2543.91
+2025-10-13,Diana Romero,"Monitor 24""",3,22.16,66.48
+2025-10-27,Jorge Sánchez,Disco SSD 500GB,3,696.04,2088.12
+2025-10-03,Carlos Pérez,Audífonos Bluetooth,4,836.14,3344.56
+2025-10-12,Luis Hernández,Laptop,5,111.22,556.1
+2025-10-30,Diana Romero,Laptop,4,738.73,2954.92
+2025-10-20,Luis Hernández,Impresora,1,737.38,737.38
+2025-10-07,Pedro Díaz,Mouse inalámbrico,1,708.31,708.31
+2025-10-19,Luis Hernández,Memoria USB 32GB,5,1395.61,6978.05
+2025-10-09,Carlos Pérez,Disco SSD 500GB,3,888.21,2664.63
+2025-10-16,Diana Romero,Disco SSD 500GB,4,369.05,1476.2
+2025-10-12,Carlos Pérez,Teclado mecánico,2,141.58,283.16
+2025-10-02,María López,Mouse inalámbrico,4,285.36,1141.44
+2025-10-26,Ana Gómez,"Monitor 24""",3,921.72,2765.16
+2025-10-17,Carlos Pérez,Teclado mecánico,5,868.87,4344.35
+2025-10-21,Lucía Torres,Mouse inalámbrico,4,482.0,1928.0
+2025-10-22,Jorge Sánchez,Laptop,1,786.41,786.41
+2025-10-15,Lucía Torres,Laptop,1,1326.51,1326.51
+2025-10-04,Lucía Torres,Impresora,1,132.52,132.52
+2025-10-07,Lucía Torres,Teclado mecánico,3,1247.15,3741.45
+2025-10-17,Diana Romero,Disco SSD 500GB,1,1358.66,1358.66
+2025-10-24,Pedro Díaz,Disco SSD 500GB,1,237.72,237.72
+2025-10-14,Luis Hernández,Teclado mecánico,3,717.99,2153.97
+2025-10-21,Ana Gómez,Memoria USB 32GB,3,155.93,467.79
+2025-10-18,Lucía Torres,Disco SSD 500GB,2,1437.75,2875.5
+2025-10-20,Diana Romero,Audífonos Bluetooth,2,775.5,1551.0
+2025-10-12,Lucía Torres,Laptop,5,1432.18,7160.9
+2025-10-23,Lucía Torres,Mouse inalámbrico,3,599.63,1798.89
+2025-10-20,Diana Romero,Disco SSD 500GB,4,588.41,2353.64
+2025-10-24,Pedro Díaz,Mouse inalámbrico,1,1343.28,1343.28
+2025-10-05,Diana Romero,Teclado mecánico,3,391.8,1175.4
+2025-10-22,Carlos Pérez,Teclado mecánico,4,648.07,2592.28
+2025-10-20,Jorge Sánchez,"Monitor 24""",4,1437.08,5748.32
+2025-10-22,Diana Romero,Impresora,5,248.54,1242.7
+2025-10-15,Jorge Sánchez,Laptop,1,363.09,363.09
+2025-10-03,Jorge Sánchez,Memoria USB 32GB,2,70.0,140.0
+2025-10-14,Luis Hernández,Mouse inalámbrico,1,246.35,246.35
+2025-10-20,Carlos Pérez,Mouse inalámbrico,1,698.28,698.28
+2025-10-02,Carlos Pérez,"Monitor 24""",2,624.61,1249.22
+2025-10-16,Pedro Díaz,"Monitor 24""",1,421.6,421.6
+2025-10-05,Luis Hernández,Mouse inalámbrico,1,949.52,949.52
